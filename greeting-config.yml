@@ -1,1 +1,7 @@
 name: mihaita
+security:
+  user:
+    name: mihaita
+    password: a
+    role:
+      - ADMIN
